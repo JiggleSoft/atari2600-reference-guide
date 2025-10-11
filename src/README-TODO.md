@@ -21,8 +21,11 @@ WIP  5      [Atari 2600 Resources Quick Reference](pdf/atari-2600-resources-quic
 TODO 12     [Atari 2600 Kernels](pdf/atari-2600-kernels.pdf)
 TODO 13     [Atari 2600 Game Kernels](pdf/atari-2600-game-kernels.pdf)
 TODO 11     [Atari 2600 Kernel Development Standards](pdf/atari-2600-kernel-development-standards.pdf)
+TODO        [Atari 2600 Cartridge Bank Switching](pdf/atari-2600-cartridge-bank-switching.pdf) is this a quick reference
+TODO        [Atari 2600 Cartridge Co-Processors](pdf/atari-2600-cartridge-co-processors.pdf)
 WIP  1A     [Atari 2600 Cartridge Platform Detection](pdf/atari-2600-cartridge-platform-detection.pdf)
 WIP  1B     [Atari 2600 Cartridge Emulation](pdf/atari-2600-cartridge-emulation.pdf)
+WIP         [Atari 2600 VACR IC](pdf/atari-2600-video-audio-controller-rom.pdf) ADD BASIC INFO HERE OR LINK TO ACTUAL VACR PAGE. PROBABLY LINK and also have a simple one pager.
 
 
 ## Data
