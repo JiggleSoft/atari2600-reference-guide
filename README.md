@@ -10,12 +10,14 @@ There are also a few corresponding data files available for download.
 ## Documents
 
 [Atari 2600 Hardware Registers Quick Reference](pdf/atari-2600-hardware-registers-quick-reference.pdf)\
-[Atari 2600 Colour Palette Quick Reference](pdf/atari-2600-colour-palette-quick-reference.pdf)
+[Atari 2600 Colour Palette Quick Reference](pdf/atari-2600-colour-palette-quick-reference.pdf)\
+[Atari 2600 Cartridge Platform Detection](pdf/atari-2600-cartridge-platform-detection.pdf)\
+[Atari 2600 Cartridge Emulation](pdf/atari-2600-cartridge-emulation.pdf)\
 
 
 ## Data
 
-[Atari 2600 Colour Palette Colour Table](csv/atari-2600-colour-palette-colour-table.csv)
+[Atari 2600 Colour Palette Colour Table](csv/atari-2600-colour-palette-colour-table.csv)\
 
 
 ## Contact Details
